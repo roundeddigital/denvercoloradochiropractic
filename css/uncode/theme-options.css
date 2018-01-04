@@ -1,0 +1,62 @@
+/*Custom Footer Settings*/
+
+.today {
+  color: #ffb600!important;
+  font-family: proxima-nova,sans-serif! important;
+  font-size: 17px! important;
+  font-weight: 600!important;
+  line-height: 1.25! important;
+  text-transform: uppercase!important;
+  /* padding-top: 0px!important; */
+}
+
+.uncode_text_column.rd-footer-address p {
+    font-size: 17px;
+    line-height: 1.25;
+}
+@media (min-width: 960px){
+.chrome .col-lg-0,
+.chrome .col-lg-1,
+.chrome .col-lg-2,
+.chrome .col-lg-3,
+.chrome .col-lg-4,
+.chrome .col-lg-5,
+.chrome .col-lg-6,
+.chrome .col-lg-7,
+.chrome .col-lg-8,
+.chrome .col-lg-9,
+.chrome .col-lg-10,
+.chrome .col-lg-11,
+.chrome .col-lg-12 {
+    height: 0px;
+}
+}
+
+.chrome .owl-carousel.owl-loaded.owl-height-forced{
+height: 0px;
+}
+
+/* ======================================================================================= */
+/* Services First Row Adjustment for Mobile */
+/*@media (max-width: 959px) and (min-width: 570px){*/
+/*html.chrome:not(.ie):not(.firefox) .main-container .cols-md-responsive {*/
+/*    height: 0px !important;*/
+/*}*/
+/*}*/
+
+/*@media (max-width: 700px) {*/
+/*.rd_column .double-block-padding {*/
+/*    padding: 54px 18px 54px 18px;*/
+/*}*/
+
+/*div[class*=vc_custom_].rd_row {*/
+/*    margin-left: -18px;*/
+/*    margin-right: -18px;*/
+/*    border-left-width: 0px !important;*/
+/*    border-right-width: 0 !important;*/
+/*}*/
+
+/*.rd_inner_column .single-block-padding {*/
+/*    padding: 0px 0px 36px 0px;*/
+/*}*/
+/*}*/
